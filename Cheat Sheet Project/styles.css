@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(33, 32, 34);
+  color: white;
+}
+
+#title {
+  text-align: center;
+  font-size: 50px;
+}
+
+.property {
+  width: 190px;
+  border: 1px solid;
+  padding: 10px;
+  font-weight: 500;
+  background-color: rgb(33, 32, 49);
+  font-family: monospace;
+  font-size: 15px;
+}
+
+.description {
+  border: 1px solid;
+  padding: 15px;
+  background-color: rgb(33, 32, 49);
+}
+
+.divider {
+  text-align: center;
+  padding: 30px 0 10px 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.blue {
+  color: rgb(48, 196, 196)
+}
+
+.purple {
+  color: rgb(167, 79, 184)
+}
+
+table {
+  margin: 0 auto;
+}
